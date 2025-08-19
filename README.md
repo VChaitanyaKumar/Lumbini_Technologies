@@ -26,7 +26,8 @@ This internship focused on the **development and deployment of the official comp
 
 ## Internship Certificate
 The internship was successfully completed, and the certificate can be accessed below:  
-- **PDF Certificate:** [View Herehttps://drive.google.com/file/d/1rmvKBmqByVvY7sn2z88854H55eMjSg0_/view?usp=sharing)  
+**PDF Certificate:** [View Here](https://drive.google.com/file/d/1rmvKBmqByVvY7sn2z88854H55eMjSg0_/view?usp=sharing)
+ 
 
 ---
 ## Summary
