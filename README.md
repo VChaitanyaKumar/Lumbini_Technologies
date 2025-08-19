@@ -1,6 +1,4 @@
-# Lumbini_Technologies
 # 💼 Lumbini Technologies Pvt Ltd – Web Development Internship
-
 
 ## Overview
 **Position:** Web Development Intern  
